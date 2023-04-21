@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187906835587",
+    "firebase_url": "https://examen-final-1c810-default-rtdb.firebaseio.com",
+    "project_id": "examen-final-1c810",
+    "storage_bucket": "examen-final-1c810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187906835587:android:4e7ea238698d14d02787b6",
+        "android_client_info": {
+          "package_name": "com.example.examenfinalwaldo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187906835587-1b6pes2e8rb3qsp4342fgje5k7o4ingr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIVs9x4Vvc_Ow6PXjfkyllmtR5IgydDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187906835587-1b6pes2e8rb3qsp4342fgje5k7o4ingr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
